@@ -12,7 +12,8 @@ Hi there! I'm **Titikshya**, a curious and creative student developer passionate
 ## 🛠️ Projects
 
 ### 🏨 Hotel Booking System  
-(https://github.com/pallavi27-star/Hotel_Booking-1)
+(https://github.com/titikshya03/My_JAVA_Project)
+
 A clean, responsive web app that lets users browse and book rooms with real-time feedback and intuitive UI.
 
 > 💡 Built with: HTML, CSS, JS, PHP  
@@ -21,6 +22,8 @@ A clean, responsive web app that lets users browse and book rooms with real-time
 ---
 
 ### 🧠 Quiz App  
+(https://github.com/titikshya03/QuizProject)
+
 An animated quiz platform with timed questions, instant scoring, and motivational feedback.
 
 > 💡 Built with: HTML, CSS, JS  
