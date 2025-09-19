@@ -40,6 +40,16 @@ An animated quiz platform with timed questions, instant scoring, and motivationa
 
 ---
 
+## 🎯 Hobbies & Passions
+
+- 🧩 Solving logic puzzles and coding challenges for fun  
+- 📷 Capturing aesthetic moments and experimenting with photo editing  
+- 🎮 Playing strategy games that sharpen problem-solving skills  
+- ✍️ Writing modular code and documenting creative project ideas  
+- 🎧 Listening to instrumental music while coding  
+
+---
+
 ## 📫 Connect With Me
 
 <p align="left">
