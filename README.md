@@ -36,7 +36,7 @@ An animated quiz platform with timed questions, instant scoring, and motivationa
 
 A digital marketplace platform for artisans and small sellers to showcase, manage, and sell their handcrafted products online.  
 
-> 💡 Built with: HTML, CSS, Bootstrap, JavaScript, jQuery, PHP, Ajax
+> 💡 Built with: HTML, CSS, Bootstrap, JavaScript, jQuery, PHP, Ajax<br>
 > 🎯 Features: Seller dashboard, product management (add/edit/delete), responsive design, interactive UI, secure authentication
 
 ---
